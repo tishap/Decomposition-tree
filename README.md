@@ -1,4 +1,3 @@
-# Decomposition-tree
 
 # Olympic Events Decomposition Tree Visualization
 
